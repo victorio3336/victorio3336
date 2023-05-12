@@ -7,7 +7,7 @@ Full Stack Developer focused in Front End
 * 🌍  I'm based in Atlanta, Georgia
 * ✉️  You can contact me at [vvictor.ara@gmail.com](mailto:vvictor.ara@gmail.com)
 * 🚀  I'm currently working on [React-Chat with React Chat-Engine with Local Authorization](http://on progress)
-* 🧠  I'm learning Node Js
+
 
 <a href="https://www.twitter.com/vvictor_ara" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/vvictor_ara?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
